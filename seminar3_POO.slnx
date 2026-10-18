@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="seminar3_POO/seminar3_POO.vcxproj" Id="5e4b3a42-ec4f-451f-9fa7-a21be1ff2cb6" />
+</Solution>
